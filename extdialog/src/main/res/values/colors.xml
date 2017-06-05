@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bird_dialog_background">#FFFFFF</color>
+    <color name="bird_dialog_content_textColor">#464646</color>
+    <color name="bird_dialog_confirm_backgroundColor">#2d78f4</color>
+    <color name="bird_dialog_confirm_textColor">#FFFFFF</color>
+    <color name="bird_dialog_cancel_textColor">#898989</color>
+</resources>

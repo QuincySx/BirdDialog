@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bird_dialog_radius">10dp</dimen>
+    <dimen name="bird_dialog_layout_width">240dp</dimen>
+    <dimen name="bird_dialog_headimage_width">60dp</dimen>
+    <dimen name="bird_dialog_headimage_height">60dp</dimen>
+    <dimen name="bird_dialog_headimage_marginTop">22dp</dimen>
+
+    <dimen name="bird_dialog_content_marginLeft">30dp</dimen>
+    <dimen name="bird_dialog_content_marginRight">30dp</dimen>
+    <dimen name="bird_dialog_content_marginTop">28dp</dimen>
+    <dimen name="bird_dialog_content_lineSpacingExtra">12dp</dimen>
+    <dimen name="bird_dialog_content_textSize">18sp</dimen>
+
+    <dimen name="bird_dialog_confirm_width">150dp</dimen>
+    <dimen name="bird_dialog_confirm_height">40dp</dimen>
+    <dimen name="bird_dialog_confirm_marginTop">28dp</dimen>
+    <dimen name="bird_dialog_confirm_textSize">15sp</dimen>
+
+    <dimen name="bird_dialog_cancel_marginTop">16dp</dimen>
+    <dimen name="bird_dialog_cancel_paddingBottom">20dp</dimen>
+    <dimen name="bird_dialog_cancel_textSize">14sp</dimen>
+</resources>
